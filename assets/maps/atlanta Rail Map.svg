@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 1100" width="520" height="1100">
+  <rect width="520" height="1100" fill="#0a0a0c"/>
+  <text x="40" y="48" fill="#e8eaef" font-family="Arial,sans-serif" font-size="22" font-weight="700">MARTA Rail</text>
+  <text x="40" y="74" fill="#7a8299" font-family="Arial,sans-serif" font-size="13">Atlanta · Red &amp; Gold · ATL Station</text>
+  <!-- vertical lines northward from airport -->
+  <path d="M200 980 L200 120" fill="none" stroke="#ef4444" stroke-width="10" stroke-linecap="round"/>
+  <path d="M320 980 L320 160" fill="none" stroke="#eab308" stroke-width="10" stroke-linecap="round"/>
+  <!-- Airport -->
+  <circle cx="260" cy="980" r="22" fill="#0a0a0c" stroke="#22d3ee" stroke-width="3"/>
+  <circle cx="260" cy="980" r="10" fill="#22d3ee"/>
+  <text x="260" y="1040" text-anchor="middle" fill="#22d3ee" font-family="Arial,sans-serif" font-size="16" font-weight="700">AIRPORT (ATL)</text>
+  <text x="260" y="1062" text-anchor="middle" fill="#7a8299" font-family="Arial,sans-serif" font-size="12">Domestic west end</text>
+  <!-- stations -->
+  <g font-family="Arial,sans-serif" font-size="13" fill="#e8eaef">
+    <circle cx="200" cy="860" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="865">College Park</text>
+    <circle cx="200" cy="740" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="745">East Point</text>
+    <circle cx="200" cy="620" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="625">Lakewood</text>
+    <circle cx="200" cy="500" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="505">West End</text>
+    <circle cx="200" cy="380" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="385">Garnett</text>
+    <circle cx="200" cy="220" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/><text x="360" y="225">Five Points</text>
+    <circle cx="320" cy="860" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/>
+    <circle cx="320" cy="740" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/>
+    <circle cx="320" cy="220" r="8" fill="#0a0a0c" stroke="#94a3b8" stroke-width="2"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13" font-weight="700">
+    <rect x="40" y="100" width="14" height="14" fill="#ef4444" rx="2"/><text x="62" y="112" fill="#e8eaef">Red Line</text>
+    <rect x="160" y="100" width="14" height="14" fill="#eab308" rx="2"/><text x="182" y="112" fill="#e8eaef">Gold Line</text>
+  </g>
+</svg>
